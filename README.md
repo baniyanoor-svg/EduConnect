@@ -26,36 +26,31 @@
 
 # 🛠️ Tech Stack
 
-HTML5 – Structure and content
+1.HTML5 – Structure and content
 
-CSS3 – Styling and layout
+2.CSS3 – Styling and layout
 
-JavaScript – Interactivity and functionality
+3.JavaScript – Interactivity and functionality
+
+# Project Description
+
+1.index.html – Student login page.
+
+2.dashboard.html – Main dashboard with navigation.
+
+3.attendance.html – Attendance records display.
+
+4.marks.html – Academic performance and grades.
+
+5.profile.html – Student personal details.
+
+6.style.css – Styling for all pages.
+
+7.script.js – Handles interactivity and dynamic features.
 
 
 
 
-
-# 📁 Project Structure
-
-student-portal/
-│
-├── index.html              → Login page
-├── dashboard.html          → Main dashboard
-├── attendance.html         → Attendance page
-├── marks.html              → Marks/Results page
-├── timetable.html          → Timetable page
-├── notices.html            → Notice board page
-├── profile.html            → Profile page
-│
-├── css/
-│   └── style.css           → Main styling
-│
-├── js/
-│   └── script.js           → Interactivity (e.g., dark mode)
-│
-└── images/
-    └── profile.jpg         → Profile image
 
 
 # 💡 Future Enhancements
@@ -79,6 +74,6 @@ This project is licensed under the MIT License – free to use and modify.
 
 # 🌟 Author
 
-Developed by Noorjehan
+**Developed by 'Noorjehan'**
 💌
 Feel free to connect for collaboration or feedback!
