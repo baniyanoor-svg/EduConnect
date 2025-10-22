@@ -44,9 +44,11 @@
 
 5.profile.html – Student personal details.
 
-6.style.css – Styling for all pages.
+6.timetable.html -Timetable display.
 
-7.script.js – Handles interactivity and dynamic features.
+7.notices.html -for student's notice.
+
+8.script.js – Handles interactivity and dynamic features.
 
 
 
