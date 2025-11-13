@@ -30,31 +30,43 @@
 
 2.CSS3 – Styling and layout
 
-3.JavaScript – Interactivity and functionality
+
 
 # Project Description
 
 1.index.html – Student login page.
 
-2.dashboard.html – Main dashboard with navigation.
+2.about.html-Details about website.
 
-3.attendance.html – Attendance records display.
+3.contact.html-for contact and info.
 
-4.marks.html – Academic performance and grades.
+4.login.html-for sign in to dashboard.
 
-5.profile.html – Student personal details.
+5.register.html-if not sign in, then to sign up.
 
-6.timetable.html -Timetable display.
+6.dashboard.html – Main dashboard with navigation.
 
-7.notices.html -for student's notice.
+7.attendance.html – Attendance records display.
 
+8.marks.html – Academic performance and grades.
 
+9.timetable.html -Timetable display.
+
+10.notices.html -for student's notice.
+
+11.profile.html – Student personal details
+
+12.style.css-for styling the html pages.
+
+ 13.Asssets :about.jpeg,profile.jpeg -for images.
+        
 
 
 
 
 
 # 💡 Future Enhancements
+Use JS to make website dyanmic and interactive.
 
 Add admin panel for teachers to manage data
 
