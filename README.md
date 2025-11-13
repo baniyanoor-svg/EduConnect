@@ -48,7 +48,6 @@
 
 7.notices.html -for student's notice.
 
-8.script.js – Handles interactivity and dynamic features.
 
 
 
