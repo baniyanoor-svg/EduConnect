@@ -15,7 +15,7 @@ body {
 }
 
 .form-wrapper {
-
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -202,9 +202,8 @@ button:hover {
 
   background: #2d224d;
   color: rgb(65, 46, 80);
-  width: 350px;
-  margin-top: 180px;
-  margin-left: 520px;
+  width: 90%;
+  max-width: 350px;
   padding: 2rem 2.5rem;
   border-radius: 15px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
@@ -215,9 +214,8 @@ button:hover {
 .container2 {
   background: #2d224d;
   color: white;
-  width: 400px;
-  margin-top: 150px;
-  margin-left: 550px;
+  width: 90%;
+  max-width: 400px;
   padding: 2rem 2.5rem;
   border-radius: 15px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
